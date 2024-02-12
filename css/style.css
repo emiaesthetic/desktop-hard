@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+
+  background: #1b1a1b;
+  color: #fff;
+}
+
+h1,
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1240px;
+  padding: 0 30px;
+  margin: 0 auto;
+}

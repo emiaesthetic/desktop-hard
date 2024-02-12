@@ -1,0 +1,25 @@
+.hero {
+  position: relative;
+  min-height: 969px;
+  margin-bottom: 100px;
+  padding-top: 146px;
+}
+
+.hero:after {
+  content: url(../img/male-vr.png);
+  position: absolute;
+  right: 0;
+  bottom: -40px;
+}
+
+.hero__title {
+  font-size: 150px;
+  font-weight: 900;
+  letter-spacing: -0.1em;
+}
+
+.hero__subtitle {
+  padding-left: 100px;
+  font-size: 28px;
+  line-height: 1.79;
+}
